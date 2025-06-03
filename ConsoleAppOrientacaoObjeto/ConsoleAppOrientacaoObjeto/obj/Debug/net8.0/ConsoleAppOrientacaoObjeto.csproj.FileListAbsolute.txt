@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\bin\Debug\net8.0\ConsoleAppOrientacaoObjeto.exe
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\bin\Debug\net8.0\ConsoleAppOrientacaoObjeto.deps.json
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\bin\Debug\net8.0\ConsoleAppOrientacaoObjeto.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\bin\Debug\net8.0\ConsoleAppOrientacaoObjeto.dll
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\bin\Debug\net8.0\ConsoleAppOrientacaoObjeto.pdb
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\obj\Debug\net8.0\ConsoleAppOrientacaoObjeto.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\obj\Debug\net8.0\ConsoleAppOrientacaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\obj\Debug\net8.0\ConsoleAppOrientacaoObjeto.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\obj\Debug\net8.0\ConsoleAppOrientacaoObjeto.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\obj\Debug\net8.0\ConsoleAppOrientacaoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\obj\Debug\net8.0\ConsoleAppOrientacaoObjeto.csproj.CopyComplete
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\obj\Debug\net8.0\ConsoleAppOrientacaoObjeto.dll
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\obj\Debug\net8.0\refint\ConsoleAppOrientacaoObjeto.dll
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\obj\Debug\net8.0\ConsoleAppOrientacaoObjeto.pdb
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\obj\Debug\net8.0\ConsoleAppOrientacaoObjeto.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleAppOrientacaoObjeto\ConsoleAppOrientacaoObjeto\obj\Debug\net8.0\ref\ConsoleAppOrientacaoObjeto.dll
